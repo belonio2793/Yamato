@@ -1,0 +1,6 @@
+{
+  "name": "Yamato Hostel Pasay — 360° Cinematic Virtual Experience",
+  "description": "Immersive 360° virtual tour and architectural showcase for Yamato Hostel in Pasay City, Metro Manila. Explore serene Japanese harmony, deluxe suites, and dormitories in high definition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
